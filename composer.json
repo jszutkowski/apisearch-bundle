@@ -20,7 +20,7 @@
         "symfony/console": "^3.0|^4.0",
         "ramsey/uuid": "^3.7.1",
         "mmoreram/base-bundle": "^1.0",
-        "apisearch-io/php-client": "dev-master"
+        "apisearch-io/php-client": "0.1.21"
     },
     "suggested": {
         "twig/twig": "In case you use Twig engine",
